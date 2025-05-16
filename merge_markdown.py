@@ -10,7 +10,7 @@ import sys
 # Usage: python merge_markdown_to_txt.py <path_to_markdown_files_directory>
 
 # Define the date string to prepend
-DATE_PREFIX = "\n\nDate: 2017年9月7日 GMT+8 00:00:00\n\n"
+DATE_PREFIX = "\n\nDate: 2020年9月22日 GMT+8 00:00:00\n\n"
 
 def process_markdown_file(filepath):
     """Reads a markdown file, prepends the date string, and returns the content."""
