@@ -82,3 +82,9 @@ python merge_markdown.py <path_to_html2markdown_folder>
 然后就是常规的 Day One 导入操作了，【文件】->【导入】->【纯文本文件】-> 选择刚刚生成的 merged_result.txt 文件即可。
 
 ![](https://raw.githubusercontent.com/tisfeng/ImageBed/main/uPic/ITc0IY.png)
+
+
+
+### 相关项目
+
+- [将简书日记迁移到 Day One](https://github.com/tisfeng/jianshu2dayone)
